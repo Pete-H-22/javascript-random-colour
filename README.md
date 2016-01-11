@@ -1,2 +1,2 @@
-# php-random-colour
-Script for generating random colours from the full hexadecimal range
+# javascript-random-colour
+Script for generating random colours from the full RGB range
